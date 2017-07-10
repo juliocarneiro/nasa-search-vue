@@ -1,6 +1,6 @@
 # nasa-search-vue
 
-> Consumindo API da NASA, busca de imagns utilizando o VueJS
+> Consumindo API da NASA, busca de imagens utilizando o VueJS
 
 ## Build Setup
 
@@ -15,4 +15,5 @@ npm run dev
 npm run build
 
 > Exemplo: http://nasa-search-vue.herokuapp.com/
-> Tutorial como fazer o deploy para o Heroku: https://medium.com/@juliocarneiro/fazendo-deploy-de-apps-vue-webpack-no-heroku-89340028a88e
+> Tutorial como fazer o deploy para o Heroku: 
+https://medium.com/@juliocarneiro/fazendo-deploy-de-apps-vue-webpack-no-heroku-89340028a88e
