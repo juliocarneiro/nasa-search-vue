@@ -8,7 +8,11 @@
     "dev": "node build/dev-server.js",
     "postinstall": "npm run build",
     "start": "node server.js",
-    "build": "node build/build.js",
+    "build": "node build/build.js"
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "vue": "^2.3.3",
     "autoprefixer": "^6.7.2",
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
@@ -43,12 +47,7 @@
     "webpack-hot-middleware": "^2.18.0",
     "webpack-merge": "^4.1.0"
   },
-  "dependencies": {
-    "axios": "^0.16.2",
-    "vue": "^2.3.3"
-  },
   "devDependencies": {
-    
   },
   "engines": {
     "node": ">= 4.0.0",
